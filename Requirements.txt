@@ -1,0 +1,4 @@
+Pip 
+Streamlit
+numpy
+pandas
